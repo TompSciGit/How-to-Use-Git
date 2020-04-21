@@ -1,6 +1,20 @@
 # How-to-Use-Git
 This 'repo' follows the ['Github For Poets' tutorial by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV).
 
+This README is a longer concatinated version of the sub-topics in the listed repo files. A lists of contents has been made below which lists all the quick-access topics and will direct you to the topic subfolders.
+
+## Contents
+* GitHub
+  * [Making a New File]
+  * [Commiting Changes to an Old File]
+  * [Using Markdown]
+* Git
+  * [List of Bash Commands]
+  * [How to Commit]
+* Both
+  * [Specific File Names] 
+  * [What Can Be Done With a Hash]
+
 ## My Motivation 
 My motivation is to be able to join the opensource community and contribute.  The reason I chose to learn how to use Git and Github is because **Git and Github are popular tools used by developers** and to have some kind of version control for my life *lol*.  If you find yourself this far into reading aobut how to use Git, you clearly need to learn it, so please be bothered to read this.
 
@@ -21,7 +35,21 @@ The next thing to notice in the browser is the list of files. **insert pic here*
 * .gitingore
 * README.md
 
+Moving on, below the list of files, there is this 'README.md' windowy type thing **insert pic here**. This is the contents of the 'README.md' file which is listed in the file list above. Git assumes the README file needs to be read before anything can be done to the project and therefore it displays it nicely for everyone to see. Just like this. If you are wondering how I managed to make the README file look so nice with headers and bold captioning then please jump to [Markdown].
+
+I think that is enough familiarisation of the website for now. You now know you are looking at my repo which is hosted on the Github webservice, and you also know where the list of files are in the repo. Now time to open a listed file and change it. 
+> note: this is written with the persecrive that I will one day need this as notes to refresh my  memory. If you are not me, I love you & thanks for reading, but you will not be able to edit this repo without forking it first. Please see [Forking]
+
+## Commiting a change with GitHub 
+This section will guide you through making a 'commit' on the repo. It would probably be best to duplicate the tab on you're web browser and follow this tutorial while doing it.
+
+Commit Hash
+
+## Making a New File with GitHub
+
+
 ## Specific File Names
+why .md?
 
 ## What is this Markdown?
 [use this link](https://guides.github.com/features/mastering-markdown/)
