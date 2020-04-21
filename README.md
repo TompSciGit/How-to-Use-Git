@@ -45,6 +45,9 @@ This section will guide you through making a 'commit' on the repo. It would prob
 
 Commit Hash
 
+Recources for this section:
+* [Episode 1(9:10) Shiffman Youtube Git Series](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+
 ## Making a New File with GitHub
 
 
