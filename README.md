@@ -4,16 +4,29 @@ This 'repo' follows the ['Github For Poets' tutorial by Daniel Shiffman](https:/
 This README is a longer concatinated version of the sub-topics in the listed repo files. A lists of contents has been made below which lists all the quick-access topics and will direct you to the topic subfolders.
 
 ## Contents
-* GitHub
+* How to GitHub
   * [Making a New File]
   * [Commiting Changes to an Old File]
   * [Using Markdown]
-* Git
+* How to Git
   * [List of Bash Commands]
   * [How to Commit]
-* Both
+* How to Both
   * [Specific File Names] 
   * [What Can Be Done With a Hash]
+* How to Organise Your GitHub Professionally
+  * ...
+  * [Coding Styles, commenting & Documentation]
+  * [Document uniting testing]
+  * [Jupiter Notebook]
+  * [what a README should include]
+  * [What all the .git files need to have in them]
+  * [https://guides.github.com/]
+  * [Organising your Anaconda envirnoments and CMake build Files] + [python commenting thing]
+  * [Java Notes]
+  * [Project Management Notes]
+  * [Personal Website]
+  * [Good Example Git Repos]
 
 ## My Motivation 
 My motivation is to be able to join the opensource community and contribute.  The reason I chose to learn how to use Git and Github is because **Git and Github are popular tools used by developers** and to have some kind of version control for my life *lol*.  If you find yourself this far into reading aobut how to use Git, you clearly need to learn it, so please be bothered to read this.
